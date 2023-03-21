@@ -1,0 +1,2 @@
+# everyday_english
+中学2年生で習う英単語が毎日LINEで届くPythonプログラムです
